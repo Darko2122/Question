@@ -63,7 +63,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("window.png");
+    background-image: none;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -152,5 +152,6 @@ display: inline-block;
     background-color: rgba(255,240,240,0.5);
     border-radius: 12px;
 }
+
 
 
