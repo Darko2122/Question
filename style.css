@@ -93,13 +93,13 @@ p {
 /* tedyy */
 
 .teddy {
-    width: 250px;
+    width: 50px;
     margin: 10px 0;
     transition: width 0.4s ease transform 0.4s ease;
 }
 
 .letter-window.final .teddy {
-    width: 300px;        
+    width: 80px;        
     transition: width 0.4s ease;  
 }
 
@@ -152,4 +152,5 @@ display: inline-block;
     background-color: rgba(255,240,240,0.5);
     border-radius: 12px;
 }
+
 
