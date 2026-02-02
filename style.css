@@ -44,7 +44,7 @@ body {
     z-index: 10;
 }
 
-.letter-window{
+.letter-window.final{
     width: 90vw;
     max-width: 800px;
     aspect-ratio: 3/2;
@@ -133,10 +133,7 @@ display: inline-block;
     transition: transform 0.15s ease;
     cursor: default;
 }
-/* Remove window background after YES */
-.letter-window.final {
-    background-image: none;
-}
+
 
 
 .final-text{
@@ -148,3 +145,4 @@ display: inline-block;
     background-color: rgba(255,240,240,0.5);
     border-radius: 12px;
 }
+
